@@ -92,7 +92,7 @@
 - Click on **Create Repository**
 
 ### Copy files, Initialize Local Repo, Push to Remote Git Repo
-```
+```bash
 # Create folder in local deskop
 cd azure-devops-aks-demo-repos
 mkdir azure-devops-aks-kubernetes-terraform-pipeline
